@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jtemejor
+- 👋 Hi, I’m Jonathan Emejor
 - 👀 I’m interested in sports
 - 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me via email jtemejor@gmail.com
+- 💞️ I’m looking to collaborate on GitHub
+- 📫 How to reach me via email, jtemejor@gmail.com
 
 <!---
 jtemejor/jtemejor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
